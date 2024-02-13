@@ -1,0 +1,43 @@
+_repo: Half-a-dozen-boys-b-An-every-day-story_72769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ray, Anna Chapin
+    alias: Ray, Fan
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '1234'
+    url: http://www.gutenberg.org/2009/agents/1234
+    wikipedia: https://en.wikipedia.org/wiki/Anna_Chapin_Ray
+description: ''
+gutenberg_issued: '2024-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72769'
+  lccn: '07036653'
+language: en
+pgterms:marc904: https://archive.org/details/halfdozenboyseve00raya/mode/2up
+pgterms:marc905: 20240112093513ray
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bThomas Y. Crowell & Co., $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcsh 'Blind children -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Half a dozen boys : $b An every-day story'
+url: http://www.gutenberg.org/ebooks/72769
