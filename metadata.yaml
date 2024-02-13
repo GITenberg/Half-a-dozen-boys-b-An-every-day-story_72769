@@ -1,5 +1,8 @@
 _repo: Half-a-dozen-boys-b-An-every-day-story_72769
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72769-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Ray, Anna Chapin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1234
     wikipedia: https://en.wikipedia.org/wiki/Anna_Chapin_Ray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72769#Half-a-dozen-boys-b-An-every-day-story
 gutenberg_issued: '2024-01-21'
 gutenberg_type: Text
 identifiers:
